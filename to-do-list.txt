@@ -1,0 +1,16 @@
+Bonus
+	
+	Responsive
+	Navbar collapse
+	Slider with carousel
+	Image first then text in mobile view
+	No Lorem ipsum text
+	Ready To Join Section - Opening Modal by Clicking on button
+	FAQ with Accordion Section
+		Difference Flex VS Grid
+		Difference bootstrap and tailwind
+		CSS Box Model
+		What is sementic tag
+	Trusted Company 
+		Images will not be shown on mobile and tab
+	Minimum 6 times push in github with meaningful message
