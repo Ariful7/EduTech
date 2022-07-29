@@ -1,0 +1,36 @@
+#social-media-links a{
+    display: inline-block;
+    height: 40px !important;
+    width: 40px !important;
+    line-height: 40px;
+    border-radius: 50%;
+    background-color: rgba(10, 10, 10, .5);
+    color: white;
+    transition: background-color 2s, color 1s, transform 2s;
+    /* opacity: .4; */
+}
+@media (min-width: 40em){
+    .carousel-caption p {
+        margin-bottom: 1.25rem;
+        font-size: 1.25rem;
+        line-height: 1.4;
+    }
+}
+
+.img-over-opacity{
+    position: absolute;
+    height: 100%; 
+    width: 100%; 
+    top: 0 ; 
+    background: rgba(10, 10, 10, .5);
+}
+
+.link-terms:hover{
+    color: gold !important;
+}
+
+#social-media-links a:hover{
+    background-color: gold;
+    color: black !important;
+    transform:rotateY(360deg)
+}
